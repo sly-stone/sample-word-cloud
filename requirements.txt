@@ -1,0 +1,11 @@
+isort
+black
+jupyterlab-code-formatter
+
+numpy
+pandas
+scipy
+sklearn
+
+matplotlib
+seaborn
