@@ -4,8 +4,8 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-    image: template-datascience
-    container_name: template-datascience
+    image: sample-word-cloud
+    container_name: sample-word-cloud
     ports:
       - "8888:8888"
     environment:

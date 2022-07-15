@@ -1,4 +1,4 @@
-# Template Repository for Data Science
+# Sample Word Cloud
 
 ## Build
 
@@ -11,3 +11,7 @@ docker-compose up -d --build
 ```
 http://localhost:8888/
 ```
+
+## Thanks
+
+https://moji.or.jp/ipafont/ipaex00401/
